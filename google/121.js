@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 const maxProfit = function (prices) {
   let profit = 0;
   let buyDate = 0;

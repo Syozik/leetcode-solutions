@@ -55,7 +55,7 @@ Please follow the existing format when contributing.
 
 | Company   | Problems Solved |
 | --------- | --------------- |
-| Total     | 0               |
+| Total     | 4               |
 | Amazon    | 0               |
 | Google    | 4               |
 | Microsoft | 0               |

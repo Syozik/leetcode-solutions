@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/valid-parentheses/description/
 class Stack {
   constructor() {
     this.parentheses = [];
