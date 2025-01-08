@@ -53,12 +53,13 @@ Please follow the existing format when contributing.
 
 ## Progress Tracker 📊
 
-| Company   | Problems Solved | Total Problems |
-| --------- | --------------- | -------------- |
-| Amazon    | [Number]        | [Number]       |
-| Google    | [Number]        | [Number]       |
-| Microsoft | [Number]        | [Number]       |
-| ...       | ...             | ...            |
+| Company   | Problems Solved |
+| --------- | --------------- |
+| Total     | 0               |
+| Amazon    | 0               |
+| Google    | 4               |
+| Microsoft | 0               |
+| ...       | ...             |
 
 ## Resources 📚
 
