@@ -1,4 +1,4 @@
-# LeetCode Solutions by Company 🚀
+# LeetCode Solutions by Company
 
 This repository contains my solutions to LeetCode problems commonly asked in technical interviews at various companies. The problems are organized by company to help others prepare for specific interviews.
 
