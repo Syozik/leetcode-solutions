@@ -3,15 +3,7 @@
 from typing import List
 
 def change_direction(vector):
-    match vector:
-        case [0,1]:
-            return [1,0]
-        case [1,0]:
-            return [0,-1]
-        case [0,-1]:
-            return [-1,0]
-        case [-1,0]:
-            return [0,1]
+    return [vector[1], -vector[0]]
     
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
