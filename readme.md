@@ -55,10 +55,12 @@ Please follow the existing format when contributing.
 
 | Company   | Problems Solved |
 | --------- | --------------- |
-| Total     | 4               |
-| Amazon    | 0               |
-| Google    | 4               |
-| Microsoft | 0               |
+| Total     | 24              |
+| Amazon    | 6               |
+| Apple     | 1               |
+| Google    | 14              |
+| Microsoft | 1               |
+| No Company| 2               |
 | ...       | ...             |
 
 ## Resources 📚
