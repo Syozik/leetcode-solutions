@@ -55,11 +55,12 @@ Please follow the existing format when contributing.
 
 | Company   | Problems Solved |
 | --------- | --------------- |
-| Total     | 24              |
-| Amazon    | 6               |
-| Apple     | 1               |
-| Google    | 14              |
-| Microsoft | 1               |
+| Total     | 36              |
+| Amazon    | 9               |
+| Apple     | 5               |
+| Google    | 17              |
+| Microsoft | 2               |
+| Spotify   | 1               |
 | No Company| 2               |
 | ...       | ...             |
 
